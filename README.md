@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋, Md. Parvej
+#### Web Developer 
+![Web Developer ](https://i.ibb.co.com/Hfnzj1vb/github-banner.png)
+
+🚀 Frontend Developer | Lifelong Learner
+🎨 Crafting sleek web interfaces with React & Tailwind
+💼 Currently working in HR, but tech is my passion!
+📚 Always exploring new technologies & building cool projects
+
+💡 Let’s connect and create something awesome! 🚀
+
+Skills: REACT / JS / HTML / CSS / MONGODB / NODE JS / TAILWIND
+
+- 🔭 I’m currently working on PAWS & BEYOND 
+- 🌱 I’m currently learning Next.js 
+- 💬 Ask me about Web development  
 
 
-**Parvej101/Parvej101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Parvej101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MH Parvej )  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej101)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parvej101&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Parvej101/contributions?format=svg&private=true)  
 
