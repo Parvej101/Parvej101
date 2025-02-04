@@ -1,7 +1,7 @@
 ![Web Developer ](https://i.ibb.co.com/Hfnzj1vb/github-banner.png)
 ### Hi I am Md.Parvej
 ##### Web Developer 
-![Web Developer ](https://i.ibb.co.com/Hfnzj1vb/github-banner.png)
+
 
 🚀 Frontend Developer | Lifelong Learner
 🎨 Crafting sleek web interfaces with React & Tailwind
