@@ -1,27 +1,55 @@
-![Web Developer ](https://i.ibb.co.com/Hfnzj1vb/github-banner.png)
-### Hi I am Md.Parvej
-##### Web Developer 
+<p align="center">
+  <img src="https://i.ibb.co.com/Hfnzj1vb/github-banner.png" alt="Web Developer">
+</p>
 
+<h1 align="center">Hi, I'm Md. Parvej 👋</h1>
+<h3 align="center">🚀 Frontend Developer | Lifelong Learner</h3>
 
-🚀 Frontend Developer | Lifelong Learner <br>
-🎨 Crafting sleek web interfaces with React & Tailwind <br>
-💼 Currently working in HR, but tech is my passion! <br>
-📚 Always exploring new technologies & building cool projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript;Building+cool+stuff+everyday!" />
+</p>
 
-💡 Let’s connect and create something awesome! 🚀
+---
 
-Skills: REACT / JS / HTML / CSS / MONGODB / NODE JS / TAILWIND
+## 🚀 About Me:
+- 🔭 Currently working on **Paws & Beyond** 🐾  
+- 🌱 Exploring **Next.js** to boost my frontend skills  
+- 💼 Working in **HR**, but tech is my true passion!  
+- 💡 Love learning & experimenting with new technologies  
+- 🎯 **Goal:** To create impactful web applications  
 
-- 🔭 I’m currently working on PAWS & BEYOND 
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about Web development  
+---
 
+## 🛠️ Skills:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,github" />
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Parvej101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com//mhparvej.khan.5 )  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej101)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvej101&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Parvej101&show_icons=true&theme=radical&count_private=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej101&layout=compact&theme=radical" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parvej101&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Parvej101/contributions?format=svg&private=true)  
+## 🌐 Connect With Me:
+<p align="center">
+  <a href="https://github.com/Parvej101">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mhparvej.khan.5">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://api.vaunt.dev/v1/github/entities/Parvej101/contributions?format=svg&private=true" />
+</p>
