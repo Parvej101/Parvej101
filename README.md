@@ -3,8 +3,8 @@
 ##### Web Developer 
 
 
-🚀 Frontend Developer | Lifelong Learner /n
-🎨 Crafting sleek web interfaces with React & Tailwind /n
+🚀 Frontend Developer | Lifelong Learner <br>
+🎨 Crafting sleek web interfaces with React & Tailwind <br>
 💼 Currently working in HR, but tech is my passion! <br>
 📚 Always exploring new technologies & building cool projects
 
