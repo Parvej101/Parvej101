@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Hfnzj1vb/github-banner.png" alt="Web Developer">
+  <img src="https://i.ibb.co.com/mC7mqtKj/React-js.png" alt="Web Developer">
 </p>
 
 <h1 align="center">Hi, I'm Md. Parvej 👋</h1>
